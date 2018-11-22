@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/address-manager.iml" filepath="$PROJECT_DIR$/address-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/address-manager-application.iml" filepath="$PROJECT_DIR$/application/address-manager-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-tests/address-manager-integration-tests.iml" filepath="$PROJECT_DIR$/integration-tests/address-manager-integration-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit-tests/address-manager-unit-tests.iml" filepath="$PROJECT_DIR$/unit-tests/address-manager-unit-tests.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,77 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="address-manager-application:war exploded">
+    <output-path>$PROJECT_DIR$/application/target/address-manager-application</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="address-manager-application" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:scp-cf:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:auditlog-scp-cf:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:core:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:auditlog:2.1.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.6" />
+          <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:3.0.2" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:25.1-jre" />
+          <element id="library" level="project" name="Maven: com.google.errorprone:error_prone_annotations:2.1.3" />
+          <element id="library" level="project" name="Maven: com.google.j2objc:j2objc-annotations:1.1" />
+          <element id="library" level="project" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.14" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:caching:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:security:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:tenant:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:core-scp-cf:2.1.2" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.2" />
+          <element id="library" level="project" name="Maven: com.mikesamuel:json-sanitizer:1.2.0" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:connectivity-scp-cf:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:connectivity:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.frameworks:hystrix:2.1.2" />
+          <element id="library" level="project" name="Maven: commons-configuration:commons-configuration:1.10" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="library" level="project" name="Maven: com.netflix.archaius:archaius-core:0.7.6" />
+          <element id="library" level="project" name="Maven: com.auth0:java-jwt:3.3.0" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.11" />
+          <element id="library" level="project" name="Maven: com.netflix.hystrix:hystrix-core:1.5.12" />
+          <element id="library" level="project" name="Maven: io.reactivex:rxjava:1.3.6" />
+          <element id="library" level="project" name="Maven: org.hdrhistogram:HdrHistogram:2.1.9" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.9" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.5" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:security-scp-cf:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:servlet:2.1.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.6" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.6" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:tenant-scp-cf:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.cloudplatform:metering:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana:s4hana-all:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana:core:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana:fluent-result:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana:connectivity:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana:datamodel:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.datamodel:bapi-api:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.datamodel:odata-core:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.servicesdk:odata-v2-lib:1.17.1" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.servicesdk:developer_license:1.17.1" />
+          <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.11.2" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-text:1.2" />
+          <element id="library" level="project" name="Maven: joda-time:joda-time:2.9.9" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.datamodel:odata-api:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana:rfc:2.1.2" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.s4hana.quality:common:2.1.2" />
+          <element id="library" level="project" name="Maven: org.json:json:20180130" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.servicesdk:odatav2-connectivity:1.17.1" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.7" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.6" />
+          <element id="library" level="project" name="Maven: com.sap.cloud.servicesdk:jacksonutil:1.17.1" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.25" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.2.3" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.3" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/application/target/address-manager-application/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="address-manager-application/web/Web" />
+    </root>
+  </artifact>
+</component>
