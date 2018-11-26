@@ -3,86 +3,182 @@
   <component name="ChangeListManager">
     <list default="true" id="23c610a7-16ba-442a-b042-417fe5941fa2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/catalina.2018-11-22.log" afterPath="$PROJECT_DIR$/application/target/apache-tomee/logs/catalina.2018-11-22.log" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/localhost_access_log.2018-11-22.txt" afterPath="$PROJECT_DIR$/application/target/apache-tomee/logs/localhost_access_log.2018-11-22.txt" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/temp/OpenEJB-c18of9ptgvz79mgoo0azo2ac6" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/temp/OpenEJB-d158vxnwlllrsddfy1055lvmf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/temp/safeToDelete.tmp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT.war" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/META-INF/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/META-INF/maven/com.sap.cloud.s4hana.examples/address-manager-application/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/META-INF/maven/com.sap.cloud.s4hana.examples/address-manager-application/pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/classes/application.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/classes/com/sap/cloud/s4hana/examples/HelloWorldServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/classes/logback.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/HdrHistogram-2.1.9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/animal-sniffer-annotations-1.14.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/archaius-core-0.7.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/auditlog-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/auditlog-scp-cf-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/bapi-api-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/caching-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/com.sap.cloud.s4hana-connectivity-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/com.sap.cloud.s4hana-core-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/com.sap.cloud.s4hana.cloudplatform-connectivity-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/com.sap.cloud.s4hana.cloudplatform-core-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/common-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/commons-codec-1.11.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/commons-configuration-1.10.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/commons-io-2.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/commons-lang-2.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/commons-lang3-3.7.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/commons-text-1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/connectivity-scp-cf-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/core-scp-cf-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/datamodel-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/developer_license-1.17.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/error_prone_annotations-2.1.3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/fluent-result-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/gson-2.8.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/guava-25.1-jre.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/httpclient-4.5.5.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/httpcore-4.4.9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/hystrix-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/hystrix-core-1.5.12.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/j2objc-annotations-1.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/jackson-annotations-2.9.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/jackson-core-2.9.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/jackson-databind-2.9.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/jacksonutil-1.17.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/java-jwt-3.3.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/joda-time-2.9.9.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/json-20180130.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/json-sanitizer-1.2.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/jsoup-1.11.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/jsr305-3.0.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/logback-classic-1.2.3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/logback-core-1.2.3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/metering-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/odata-api-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/odata-core-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/odata-v2-lib-1.17.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/odatav2-connectivity-1.17.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/rfc-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/rxjava-1.3.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/s4hana-all-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/scp-cf-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/security-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/security-scp-cf-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/servlet-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/slf4j-api-1.7.25.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/tenant-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/lib/tenant-scp-cf-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/spring-security.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/WEB-INF/web.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/webapps/ROOT/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/classes/application.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/classes/com/sap/cloud/s4hana/examples/HelloWorldServlet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/classes/logback.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/maven-archiver/pom.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/application/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/CreateAddressCommand.java" afterPath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/CreateAddressCommand.java" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/DeleteAddressCommand.java" afterPath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/DeleteAddressCommand.java" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/GetAllBusinessPartnersCommand.java" afterPath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/GetAllBusinessPartnersCommand.java" />
+      <change beforePath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/GetSingleBusinessPartnerByIdCommand.java" afterPath="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/GetSingleBusinessPartnerByIdCommand.java" />
+      <change beforePath="$PROJECT_DIR$/application/target/address-manager-application-classes.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/address-manager-application.war" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/TomEE.amd64.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/TomEE.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/TomEE.ia64.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/TomEE.x86.exe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/bootstrap.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/catalina-tasks.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/catalina.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/catalina.bat.original" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/catalina.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/catalina.sh.original" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/commons-daemon-native.tar.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/commons-daemon.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/configtest.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/configtest.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/daemon.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/digest.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/digest.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/service.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/service.install.as.admin.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/service.readme.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/service.remove.as.admin.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/setclasspath.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/setclasspath.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/shutdown.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/shutdown.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/startup.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/startup.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/tomcat-juli.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/tomcat-native.tar.gz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/tomee.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/tomee.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/tool-wrapper.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/tool-wrapper.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/version.bat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/bin/version.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/conf/catalina.policy" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/conf/catalina.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/conf/conf.d/cxf-rs.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/conf/conf.d/hsql.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/conf/context.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/conf/logging.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/conf/server.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/conf/server.xml.original" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/conf/system.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/conf/tomcat-users.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/conf/tomcat-users.xml.original" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/conf/tomee.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/conf/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/endorsed/annotation-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/endorsed/jaxb-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/FastInfoset-1.2.12.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/bval-core-0.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/bval-jsr303-0.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/catalina-ant.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/catalina-ha.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/catalina-tribes.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/catalina.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/commons-beanutils-core-1.8.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/commons-cli-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/commons-codec-1.9.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/commons-collections-3.2.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/commons-dbcp-1.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/commons-digester-1.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/commons-lang-2.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/commons-lang3-3.3.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/commons-logging-1.1.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/commons-pool-1.5.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/cxf-api-2.6.17-TomEE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/cxf-rt-bindings-xml-2.6.17-TomEE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/cxf-rt-core-2.6.17-TomEE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/cxf-rt-frontend-jaxrs-2.6.17-TomEE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/cxf-rt-management-2.6.17-TomEE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/cxf-rt-rs-extension-providers-2.6.17-TomEE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/cxf-rt-rs-extension-search-2.6.17-TomEE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/cxf-rt-rs-security-cors-2.6.17-TomEE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/cxf-rt-rs-security-oauth2-2.6.17-TomEE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/cxf-rt-transports-http-2.6.17-TomEE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/ecj-4.4.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/el-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/geronimo-javamail_1.4_mail-1.9.0-alpha-2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/geronimo-transaction-3.1.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/howl-1.0.1-1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/hsqldb-2.3.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/istack-commons-runtime-2.16.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/jansi-1.16.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/jasper-el.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/jasper.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/javaee-api-6.0-6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/jaxb-core-2.2.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/jaxb-impl.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/jettison-1.3.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/jsp-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/mbean-annotation-api-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/myfaces-api-2.1.17.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/myfaces-impl-2.1.17.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-api-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-client-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-core-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-cxf-rs-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-cxf-transport-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-ejbd-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-hsql-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-http-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-javaagent.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-jee-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-jee-accessors-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-jpa-integration-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-jstl-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-loader-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-rest-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openejb-server-4.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openjpa-2.4.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openwebbeans-ee-1.2.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openwebbeans-ee-common-1.2.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openwebbeans-ejb-1.2.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openwebbeans-el22-1.2.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openwebbeans-impl-1.2.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openwebbeans-jsf-1.2.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openwebbeans-spi-1.2.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/openwebbeans-web-1.2.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/quartz-openejb-shade-2.2.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/serp-1.14.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/servlet-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/slf4j-api-1.7.14.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/stax2-api-3.1.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/swizzle-stream-1.6.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/sxc-jaxb-core-0.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/sxc-runtime-0.8.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomcat-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomcat-coyote.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomcat-dbcp.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomcat-i18n-es.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomcat-i18n-fr.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomcat-i18n-ja.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomcat-jdbc.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomcat-util.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomcat7-websocket.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomee-catalina-1.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomee-common-1.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomee-jaxrs-1.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomee-jdbc-1.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomee-loader-1.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomee-mojarra-1.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomee-myfaces-1.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/tomee-webapp-1.7.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/websocket-api.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/woodstox-core-asl-4.4.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/wsdl4j-1.6.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/xbean-asm5-shaded-4.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/xbean-bundleutils-4.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/xbean-finder-shaded-4.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/xbean-naming-4.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/xbean-reflect-4.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/lib/xmlschema-core-2.0.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/catalina.2018-11-20.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/catalina.2018-11-22.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/catalina.2018-11-26.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/host-manager.2018-11-20.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/host-manager.2018-11-22.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/host-manager.2018-11-26.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/localhost.2018-11-20.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/localhost.2018-11-22.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/localhost.2018-11-26.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/localhost_access_log.2018-11-20.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/localhost_access_log.2018-11-22.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/localhost_access_log.2018-11-26.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/manager.2018-11-20.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/manager.2018-11-22.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/application/target/apache-tomee/logs/manager.2018-11-26.log" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/integration-tests/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -100,7 +196,7 @@
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="561">
               <caret line="33" column="59" lean-forward="false" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
               <folding />
             </state>
@@ -130,8 +226,43 @@
       <file leaf-file-name="GetAllBusinessPartnersCommand.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/GetAllBusinessPartnersCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            <state relative-caret-position="629">
+              <caret line="52" column="5" lean-forward="false" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+              <folding>
+                <element signature="e#1491#1492#0" expanded="true" />
+                <element signature="e#1519#1520#0" expanded="true" />
+                <element signature="e#1580#1581#0" expanded="true" />
+                <element signature="e#1638#1639#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateAddressCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/CreateAddressCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="58" lean-forward="false" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetSingleBusinessPartnerByIdCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/GetSingleBusinessPartnerByIdCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeleteAddressCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/DeleteAddressCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="38" column="53" lean-forward="false" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -152,8 +283,11 @@
       <list>
         <option value="$PROJECT_DIR$/application/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/gitignore" />
-        <option value="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/GetAllBusinessPartnersCommand.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
+        <option value="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/GetSingleBusinessPartnerByIdCommand.java" />
+        <option value="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/DeleteAddressCommand.java" />
+        <option value="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/CreateAddressCommand.java" />
+        <option value="$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/GetAllBusinessPartnersCommand.java" />
       </list>
     </option>
   </component>
@@ -192,6 +326,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -345,9 +481,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -467,12 +601,14 @@
       <workItem from="1542884151934" duration="1687000" />
       <workItem from="1542905500424" duration="1124000" />
       <workItem from="1543221173285" duration="480000" />
-      <workItem from="1543221684781" duration="589000" />
+      <workItem from="1543221684781" duration="2680000" />
+      <workItem from="1543225553182" duration="429000" />
+      <workItem from="1543226710557" duration="4916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6749000" />
+    <option name="totallyTimeSpent" value="14185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -547,9 +683,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/GetAllBusinessPartnersCommand.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#1491#1492#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+            <element signature="e#1580#1581#0" expanded="true" />
+            <element signature="e#1638#1639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="59" lean-forward="false" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/BusinessPartnerServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="65" lean-forward="false" selection-start-line="37" selection-start-column="65" selection-end-line="37" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/GetAllBusinessPartnersCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-          <folding />
+          <folding>
+            <element signature="e#1491#1492#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+            <element signature="e#1580#1581#0" expanded="true" />
+            <element signature="e#1638#1639#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -557,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -565,6 +742,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -633,7 +811,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-          <folding />
+          <folding>
+            <element signature="e#1491#1492#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+            <element signature="e#1580#1581#0" expanded="true" />
+            <element signature="e#1638#1639#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -648,6 +831,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -715,6 +899,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -774,6 +959,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -786,7 +972,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="561">
           <caret line="33" column="59" lean-forward="false" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
           <folding />
         </state>
@@ -842,15 +1028,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/DeleteAddressCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="38" column="53" lean-forward="false" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/CreateAddressCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="58" lean-forward="false" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/GetSingleBusinessPartnerByIdCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="40" column="1" lean-forward="false" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/src/main/java/com/sap/cloud/s4hana/examples/addressmgr/commands/GetAllBusinessPartnersCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-          <folding />
+        <state relative-caret-position="629">
+          <caret line="52" column="5" lean-forward="false" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="e#1491#1492#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+            <element signature="e#1580#1581#0" expanded="true" />
+            <element signature="e#1638#1639#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
