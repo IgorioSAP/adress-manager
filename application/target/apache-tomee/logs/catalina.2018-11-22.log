@@ -1,0 +1,182 @@
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server version:        Apache Tomcat (TomEE)/7.0.81 (1.7.5)
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server built:          Aug 11 2017 10:21:27 UTC
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Server number:         7.0.81.0
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Name:               Windows 10
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: OS Version:            10.0
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Architecture:          amd64
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Java Home:             C:\Program Files\Java\jdk1.8.0_171\jre
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Version:           1.8.0_171-b11
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: JVM Vendor:            Oracle Corporation
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_BASE:         C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: CATALINA_HOME:         C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dtomee.remote.support=true
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dopenejb.system.apps=false
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.config.file=C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\conf\logging.properties
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -javaagent:C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\lib\openejb-javaagent.jar
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.io.tmpdir=C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\temp
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Djava.endorsed.dirs=C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\endorsed
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.base=C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.home=C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dcatalina.ext.dirs=C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\lib
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+Nov 22, 2018 12:02:15 PM org.apache.catalina.startup.VersionLoggerListener log
+INFORMATION: Command line argument: -ea
+Nov 22, 2018 12:02:15 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFORMATION: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_171\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk1.8.0_171\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Users\rivchin\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Program Files\Git\cmd;;C:\Program Files\Cloud Foundry;C:\Users\rivchin\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\rivchin\AppData\Local\Programs\Python\Python36-32\;C:\Program Files\Microsoft VS Code\bin;C:\Users\rivchin\AppData\Local\Microsoft\WindowsApps;C:\Users\rivchin\Desktop\apache-maven-3.6.0\bin;;.
+Nov 22, 2018 12:02:16 PM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 22, 2018 12:02:16 PM org.apache.coyote.AbstractProtocol init
+INFORMATION: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 22, 2018 12:02:17 PM org.apache.openejb.util.OptionsLog info
+INFORMATION: Using 'tomee.remote.support=true'
+Nov 22, 2018 12:02:17 PM org.apache.openejb.util.OptionsLog info
+INFORMATION: Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+Nov 22, 2018 12:02:17 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMATION: ********************************************************************************
+Nov 22, 2018 12:02:17 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMATION: OpenEJB http://tomee.apache.org/
+Nov 22, 2018 12:02:17 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMATION: Startup: Thu Nov 22 12:02:17 CET 2018
+Nov 22, 2018 12:02:17 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMATION: Copyright 1999-2015 (C) Apache OpenEJB/TomEE Project, All Rights Reserved.
+Nov 22, 2018 12:02:17 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMATION: Version: 4.7.5
+Nov 22, 2018 12:02:17 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMATION: Build date: 20170927
+Nov 22, 2018 12:02:17 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMATION: Build time: 12:02
+Nov 22, 2018 12:02:17 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMATION: ********************************************************************************
+Nov 22, 2018 12:02:17 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMATION: openejb.home = C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee
+Nov 22, 2018 12:02:17 PM org.apache.openejb.OpenEJB$Instance <init>
+INFORMATION: openejb.base = C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee
+Nov 22, 2018 12:02:17 PM org.apache.openejb.cdi.CdiBuilder initializeOWB
+INFORMATION: Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@799d4f69
+Nov 22, 2018 12:02:17 PM org.apache.openejb.cdi.CdiBuilder initializeOWB
+INFORMATION: Succeeded in installing singleton service
+Nov 22, 2018 12:02:17 PM org.apache.openejb.config.ConfigurationFactory init
+INFORMATION: openejb configuration file is 'C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\conf\tomee.xml'
+Nov 22, 2018 12:02:17 PM org.apache.openejb.config.ConfigurationFactory configureService
+INFORMATION: Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+Nov 22, 2018 12:02:17 PM org.apache.openejb.config.ConfigurationFactory configureService
+INFORMATION: Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+Nov 22, 2018 12:02:17 PM org.apache.openejb.util.OptionsLog info
+INFORMATION: Using 'openejb.system.apps=false'
+Nov 22, 2018 12:02:17 PM org.apache.openejb.util.OptionsLog info
+INFORMATION: Using 'openejb.deployments.classpath=false'
+Nov 22, 2018 12:02:17 PM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFORMATION: Creating TransactionManager(id=Default Transaction Manager)
+Nov 22, 2018 12:02:17 PM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFORMATION: Creating SecurityService(id=Tomcat Security Service)
+Nov 22, 2018 12:02:17 PM org.apache.openejb.server.ServiceManager initServer
+INFORMATION: Creating ServerService(id=cxf-rs)
+Nov 22, 2018 12:02:18 PM org.apache.openejb.server.SimpleServiceManager start
+INFORMATION:   ** Bound Services **
+Nov 22, 2018 12:02:18 PM org.apache.openejb.server.SimpleServiceManager printRow
+INFORMATION:   NAME                 IP              PORT  
+Nov 22, 2018 12:02:18 PM org.apache.openejb.server.SimpleServiceManager start
+INFORMATION: -------
+Nov 22, 2018 12:02:18 PM org.apache.openejb.server.SimpleServiceManager start
+INFORMATION: Ready!
+Nov 22, 2018 12:02:18 PM org.apache.catalina.startup.Catalina load
+INFORMATION: Initialization processed in 3214 ms
+Nov 22, 2018 12:02:18 PM org.apache.tomee.catalina.OpenEJBNamingContextListener bindResource
+INFORMATION: Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+Nov 22, 2018 12:02:18 PM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFORMATION: Creating Resource(id=UserDatabase)
+Nov 22, 2018 12:02:18 PM org.apache.catalina.core.StandardService startInternal
+INFORMATION: Starting service Catalina
+Nov 22, 2018 12:02:18 PM org.apache.catalina.core.StandardEngine startInternal
+INFORMATION: Starting Servlet Engine: Apache Tomcat (TomEE)/7.0.81 (1.7.5)
+Nov 22, 2018 12:02:18 PM org.apache.catalina.startup.HostConfig deployWAR
+INFORMATION: Deploying web application archive C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\webapps\ROOT.war
+Nov 22, 2018 12:02:18 PM org.apache.tomee.catalina.TomcatWebAppBuilder init
+INFORMATION: ------------------------- localhost -> /
+Nov 22, 2018 12:02:18 PM org.apache.openejb.util.JarExtractor extract
+INFORMATION: Extracting jar: C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\webapps\ROOT.war
+Nov 22, 2018 12:02:19 PM org.apache.openejb.util.JarExtractor extract
+INFORMATION: Extracted path: C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\webapps\ROOT
+Nov 22, 2018 12:02:19 PM org.apache.openejb.util.OptionsLog info
+INFORMATION: Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
+Nov 22, 2018 12:02:22 PM org.apache.openejb.config.ConfigurationFactory configureApplication
+INFORMATION: Configuring enterprise application: C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\webapps\ROOT
+Nov 22, 2018 12:02:22 PM org.apache.openejb.config.ConfigurationFactory configureService
+INFORMATION: Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+Nov 22, 2018 12:02:22 PM org.apache.openejb.config.AutoConfig createContainer
+INFORMATION: Auto-creating a container for bean .Comp886517841: Container(type=MANAGED, id=Default Managed Container)
+Nov 22, 2018 12:02:22 PM org.apache.openejb.assembler.classic.Assembler createRecipe
+INFORMATION: Creating Container(id=Default Managed Container)
+Nov 22, 2018 12:02:23 PM org.apache.openejb.core.managed.SimplePassivater init
+INFORMATION: Using directory C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\temp for stateful session passivation
+Nov 22, 2018 12:02:23 PM org.apache.openejb.config.AppInfoBuilder build
+INFORMATION: Enterprise application "C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\webapps\ROOT" loaded.
+Nov 22, 2018 12:02:23 PM org.apache.openejb.assembler.classic.Assembler createApplication
+INFORMATION: Assembling app: C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\webapps\ROOT
+Nov 22, 2018 12:02:23 PM org.apache.openejb.cdi.CdiBuilder initSingleton
+INFORMATION: Existing thread singleton service in SystemInstance(): org.apache.openejb.cdi.ThreadSingletonServiceImpl@799d4f69
+Nov 22, 2018 12:02:24 PM org.apache.openejb.cdi.OpenEJBLifecycle startApplication
+INFORMATION: OpenWebBeans Container is starting...
+Nov 22, 2018 12:02:24 PM org.apache.webbeans.plugins.PluginLoader startUp
+INFORMATION: Adding OpenWebBeansPlugin : [CdiPlugin]
+Nov 22, 2018 12:02:24 PM org.apache.webbeans.plugins.PluginLoader startUp
+INFORMATION: Adding OpenWebBeansPlugin : [OpenWebBeansJsfPlugin]
+Nov 22, 2018 12:02:33 PM org.apache.webbeans.config.BeansDeployer deploySingleAnnotatedType
+INFORMATION: Skipping deployment of Class class com.sap.cloud.sdk.cloudplatform.auditlog.ScpCfAuditLogdue to a NoClassDefFoundError: com/sap/xs/audit/api/exception/AuditLogException
+Nov 22, 2018 12:02:36 PM org.apache.webbeans.config.BeansDeployer validateInjectionPoints
+INFORMATION: All injection points were validated successfully.
+Nov 22, 2018 12:02:36 PM org.apache.openejb.cdi.OpenEJBLifecycle startApplication
+INFORMATION: OpenWebBeans Container has started, it took 11931 ms.
+Nov 22, 2018 12:02:36 PM org.apache.openejb.assembler.classic.Assembler createApplication
+INFORMATION: Deployed Application(path=C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\webapps\ROOT)
+Nov 22, 2018 12:02:37 PM org.apache.catalina.startup.HostConfig deployWAR
+INFORMATION: Deployment of web application archive C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\webapps\ROOT.war has finished in 18,926 ms
+Nov 22, 2018 12:02:37 PM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["http-bio-8080"]
+Nov 22, 2018 12:02:37 PM org.apache.coyote.AbstractProtocol start
+INFORMATION: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 22, 2018 12:02:37 PM org.apache.catalina.startup.Catalina start
+INFORMATION: Server startup in 19158 ms
+Nov 22, 2018 6:06:02 PM org.apache.catalina.startup.HostConfig undeploy
+INFORMATION: Undeploying context []
+Nov 22, 2018 6:06:03 PM org.apache.openejb.assembler.classic.Assembler destroyApplication
+INFORMATION: Undeploying app: C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\webapps\ROOT
+Nov 22, 2018 6:06:04 PM org.apache.openejb.util.OptionsLog info
+INFORMATION: Using 'openjpa.Log=org.apache.openejb.openjpa.JULOpenJPALogFactory'
+Nov 22, 2018 6:06:04 PM org.apache.openejb.assembler.classic.Assembler destroyApplication
+INFORMATION: Undeployed app: C:\Users\rivchin\Desktop\Opensap\address-manager\application\target\apache-tomee\webapps\ROOT
+Nov 22, 2018 6:06:04 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SCHWERWIEGEND: The web application [] created a ThreadLocal with key of type [com.netflix.hystrix.Hystrix$1] (value [com.netflix.hystrix.Hystrix$1@54823352]) and a value of type [com.netflix.hystrix.Hystrix.ConcurrentStack] (value [com.netflix.hystrix.Hystrix$ConcurrentStack@4e44ec5]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Nov 22, 2018 6:06:04 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SCHWERWIEGEND: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@3470920f]) and a value of type [com.netflix.hystrix.strategy.concurrency.HystrixRequestContext] (value [com.netflix.hystrix.strategy.concurrency.HystrixRequestContext@6af7eccd]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Nov 22, 2018 6:06:04 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SCHWERWIEGEND: The web application [] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@3470920f]) and a value of type [com.netflix.hystrix.strategy.concurrency.HystrixRequestContext] (value [com.netflix.hystrix.strategy.concurrency.HystrixRequestContext@99ebb24]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
